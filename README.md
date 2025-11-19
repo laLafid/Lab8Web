@@ -1,9 +1,9 @@
 # Latihan PHP
 
 
-Halo halo, Sekarang disini akan mencoba menggunakan PHP.
+Halo halo, Sekarang disini akan mencoba menggunakan PHP dan MySQL.
 Cek juga repo lain yang membahas
- [Html dasar](https://github.com/laLafid/Lab1Web), [CSS dasar](https://github.com/laLafid/lab2web), [CSS](https://github.com/laLafid/Lab3Web), [CSS Layout](https://github.com/laLafid/Lab4Web), [Dasar Javascript](https://github.com/laLafid/Lab5Web) dan [Dasar Bootstarp](https://github.com/laLafid/Lab6Web)
+ [Html dasar](https://github.com/laLafid/Lab1Web), [CSS dasar](https://github.com/laLafid/lab2web), [CSS](https://github.com/laLafid/Lab3Web), [CSS Layout](https://github.com/laLafid/Lab4Web), [Dasar Javascript](https://github.com/laLafid/Lab5Web), [Dasar Bootstarp](https://github.com/laLafid/Lab6Web) dan [Dasar PHP](https://github.com/laLafid/Lab6Web)
 
 
 ## Langkah-langkah
@@ -77,13 +77,16 @@ Cek juga repo lain yang membahas
 
 
     - Buat file php untuk Buat, 
-    ![alt text](gambar/2.2.png)    
+    ![alt text](gambar/2.2.png)
+    [tambah.php](https://github.com/laLafid/Lab8Web/blob/bf9b36adf779856239dfa021ea572ec23bebcf30/tambah.php)    
 
     Ubah,
     ![alt text](gambar/2.3.png)
+    [ubah.php](https://github.com/laLafid/Lab8Web/blob/bf9b36adf779856239dfa021ea572ec23bebcf30/ubah.php)
 
     Hapus (kejadian setelah)
     ![alt text](gambar/2.4.png)
+    [hapus.php](https://github.com/laLafid/Lab8Web/blob/bf9b36adf779856239dfa021ea572ec23bebcf30/hapus.php)
 
 4. **Hasil Akhir**
 
@@ -92,7 +95,7 @@ Cek juga repo lain yang membahas
     ![alt text](gambar/3.0.png)
 
     ![alt text](gambar/3.1.png)
-    
+
     ![alt text](gambar/3.2.png)
 
     
